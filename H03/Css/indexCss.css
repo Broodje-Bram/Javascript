@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Copse&display=swap');
+body {
+    text-align: center;
+    font-family: 'Copse', serif;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border: 0px;
+}
+#fotos {
+    width: 900px;
+    height: 900px;
+    border: solid 1px white;
+    font-size: 0px;
+    margin: auto;
+}
