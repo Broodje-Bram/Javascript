@@ -1,0 +1,19 @@
+#wrapper {
+    margin: auto;
+    width: 70%;
+}
+body {
+    font-family: 'Noto Serif', serif;
+}
+
+Img {
+    width: 49%;
+    padding: 2px;
+}
+
+div #blok1, #blok2, #blok3, #blok4 {
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
