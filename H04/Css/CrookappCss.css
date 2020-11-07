@@ -1,0 +1,9 @@
+#ogen, #neus, #mond {
+    height: 200px;
+    width: auto;
+    border: 1px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
