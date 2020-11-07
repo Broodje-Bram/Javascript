@@ -20,35 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a633db1-2658-4cae-bbcf-b731f0cd8122" name="Default Changelist" comment="Opdracht af">
-      <change afterPath="$PROJECT_DIR$/H04/Crookapp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Css/CrookappCss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Css/indexCss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Animal1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Animal2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Animal3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Animal4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Animal5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Animal6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Animal7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Animal8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Animal9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Mond/Mond1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Mond/Mond2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Mond/Mond3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Mond/Mond4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Neus/Neus1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Neus/Neus2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Neus/Neus3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Neus/Neus4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Ogen/Ogen1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Ogen/Ogen2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Ogen/Ogen3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Img/Ogen/Ogen4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Javascript/Crookappjava.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/Javascript/indexJava.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Css/indexcss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Img/Animal1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Img/Animal2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Img/Animal3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Img/Animal4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Img/Animal5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Img/Animal6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Img/Animal7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Img/Animal8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Img/Animal9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Img/Heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Javascript/indexJava.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H01/JavaScript/indexJava.js" beforeDir="false" afterPath="$PROJECT_DIR$/H01/JavaScript/indexJava.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,19 +64,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/H04/Img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/H05/Img" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05\Img" />
       <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H04\Img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05\Img" />
+      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05" />
       <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H04\Img\Ogen" />
       <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H04\Img\Neus" />
       <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H04\Img\Mond" />
-      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H03\Img" />
-      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H02\Img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -107,7 +93,7 @@
       <updated>1604698190822</updated>
       <workItem from="1604698191936" duration="512000" />
       <workItem from="1604745840808" duration="5723000" />
-      <workItem from="1604762030309" duration="5613000" />
+      <workItem from="1604762030309" duration="9523000" />
     </task>
     <task id="LOCAL-00001" summary="Opdracht af">
       <created>1604746958807</created>
@@ -130,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604753016461</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Opdracht af">
+      <created>1604767905566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604767905566</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,10 +157,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1604746784383" />
-    <state x="480" y="188" key="Vcs.Push.Dialog.v2" timestamp="1604753044688">
+    <state x="480" y="188" key="Vcs.Push.Dialog.v2" timestamp="1604767923061">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="480" y="188" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604753044688" />
+    <state x="480" y="188" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604767923061" />
     <state x="0" y="638" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604746924037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

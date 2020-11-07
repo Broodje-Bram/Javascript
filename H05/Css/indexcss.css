@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+div.foto_houder {
+    box-sizing: border-box;
+    height: 450px;
+    width: 300px;
+    float: left;
+    background-color: blueviolet;
+    border: 1px solid black;
+}
+
+#fotos {
+    width: 900px;
+    height: 1350px;
+    border: 2px solid black;
+    font: 0px;
+    margin: auto;
+}
+
+div.favoriet {
+    width: 300px;
+    height: 150px;
+    background-color: lightskyblue;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
