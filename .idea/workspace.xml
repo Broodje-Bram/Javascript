@@ -20,19 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a633db1-2658-4cae-bbcf-b731f0cd8122" name="Default Changelist" comment="Memory Game start phase">
-      <change afterPath="$PROJECT_DIR$/MemoryGame/Css/memory_game.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MemoryGame/Img/Animal1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MemoryGame/Img/Animal2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MemoryGame/Img/Animal3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MemoryGame/Img/Animal4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MemoryGame/Img/Animal5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MemoryGame/Img/Animal6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MemoryGame/Img/BroodjeBramBackgroundStars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MemoryGame/Img/BroodjeGezond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MemoryGame/Img/BroodjeTekening.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MemoryGame/Img/frikandelBroodje.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Img/ScorpionSpear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/Muziek/MortalKombatSong.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MemoryGame/Img/Animal9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MemoryGame/Img/MemoryCardBackground.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MemoryGame/Css/indexCss.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/Css/indexcss.css" beforeDir="false" afterPath="$PROJECT_DIR$/H05/Css/indexcss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/Javascript/indexJava.js" beforeDir="false" afterPath="$PROJECT_DIR$/H05/Javascript/indexJava.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H05/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MemoryGame/Css/memory_game.css" beforeDir="false" afterPath="$PROJECT_DIR$/MemoryGame/Css/memory_game.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MemoryGame/Img/BroodjeBramBackgroundStars.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MemoryGame/Javascript/indexJava.js" beforeDir="false" afterPath="$PROJECT_DIR$/MemoryGame/Javascript/indexJava.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MemoryGame/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MemoryGame/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,21 +62,22 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MemoryGame/Img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/H05/Muziek" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\MemoryGame\Img" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05\Muziek" />
       <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05\Img" />
+      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\MemoryGame\Img" />
+      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H04\Img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05\Img" />
+      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\MemoryGame\Img" />
       <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05" />
       <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H04\Img\Ogen" />
       <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H04\Img\Neus" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\MemoryGame\Img" />
-      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05\Img" />
-      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H04\Img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -96,7 +95,9 @@
       <workItem from="1604745840808" duration="5723000" />
       <workItem from="1604762030309" duration="11995000" />
       <workItem from="1604920957029" duration="615000" />
-      <workItem from="1604921586384" duration="2662000" />
+      <workItem from="1604921586384" duration="2697000" />
+      <workItem from="1604925725721" duration="131000" />
+      <workItem from="1604936335426" duration="7350000" />
     </task>
     <task id="LOCAL-00001" summary="Opdracht af">
       <created>1604746958807</created>
@@ -154,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604921647890</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Memory Game start phase">
+      <created>1604925622680</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604925622680</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,10 +192,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="526" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604765104651" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604921920656">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604938285037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604921920656" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604938285037" />
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1604746891682">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

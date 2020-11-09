@@ -36,5 +36,5 @@ function maakfavoriet(id) {
     }
 
     favoriet = document.getElementById("favoriet_" + id);
-    favoriet.style.backgroundImage = "url('Img/Heart.png')"
+    favoriet.style.backgroundImage = "url('Img/ScorpionSpear.png')"
 }

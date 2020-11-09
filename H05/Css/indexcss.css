@@ -1,5 +1,5 @@
 body {
-    text-align: center;
+    background: rgb(255,204,203);
 }
 
 div.foto_houder {
@@ -7,7 +7,7 @@ div.foto_houder {
     height: 450px;
     width: 300px;
     float: left;
-    background-color: blueviolet;
+    background-color: red;
     border: 1px solid black;
 }
 
@@ -15,16 +15,23 @@ div.foto_houder {
     width: 900px;
     height: 1350px;
     border: 2px solid black;
-    font: 0px;
     margin: auto;
 }
 
 div.favoriet {
     width: 300px;
     height: 150px;
-    background-color: lightskyblue;
+    background-color: red;
     background-image: none;
     background-repeat: no-repeat;
     background-position: center;
 }
 
+audio {
+    left: auto;
+    position: absolute;
+}
+
+h1, h3 {
+    text-align: center;
+}
