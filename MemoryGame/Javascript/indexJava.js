@@ -118,8 +118,11 @@ function whowon() {
     if (player1pointscore > player2pointscore) {
         winner = player1getname + " is de Winnaar";
     }
-    else {
+    else if ((player1pointscore < player2pointscore)){
         winner = player2getname + " is de Winnaar";
+    }
+    else {
+        winner = "Gelijk Spel!!";
     }
     console.log(winner);
     thewinner.innerHTML = winner;
