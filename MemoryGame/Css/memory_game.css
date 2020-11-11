@@ -142,7 +142,7 @@ input[type="checkbox"] {
     display: block;
     width: 40px;
     height: 20px;
-    background: #092c3e;
+    background: #121212;
     cursor: pointer;
     border-radius: 20px;
     overflow: hidden;
@@ -151,5 +151,5 @@ input[type="checkbox"] {
 
 input[type="checkbox"]:checked ~ .check {
     background: cyan;
-    box-shadow: 0 0 0 2000px #121212;
+    box-shadow: 0 0 0 50000px #121212;
 }
