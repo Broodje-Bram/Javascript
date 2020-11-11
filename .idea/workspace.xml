@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a633db1-2658-4cae-bbcf-b731f0cd8122" name="Default Changelist" comment="versie 3.0">
+    <list default="true" id="6a633db1-2658-4cae-bbcf-b731f0cd8122" name="Default Changelist" comment="game scoreboard en beurten werken">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MemoryGame/Css/memory_game.css" beforeDir="false" afterPath="$PROJECT_DIR$/MemoryGame/Css/memory_game.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MemoryGame/Javascript/indexJava.js" beforeDir="false" afterPath="$PROJECT_DIR$/MemoryGame/Javascript/indexJava.js" afterDir="false" />
@@ -36,8 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -92,7 +92,8 @@
       <workItem from="1604936335426" duration="13039000" />
       <workItem from="1604962835730" duration="425000" />
       <workItem from="1605016044425" duration="2162000" />
-      <workItem from="1605047245051" duration="8077000" />
+      <workItem from="1605047245051" duration="8112000" />
+      <workItem from="1605090880421" duration="6896000" />
     </task>
     <task id="LOCAL-00001" summary="Opdracht af">
       <created>1604746958807</created>
@@ -178,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604962964554</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="game scoreboard en beurten werken">
+      <created>1605055356938</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605055356938</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +222,8 @@
     <MESSAGE value="Hoofdstuk 5 Muziek en achtergrond veranderd&#10;Memory Game Mid Phase" />
     <MESSAGE value="versie 3.0" />
     <MESSAGE value="Javascript flip card gefixt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Javascript flip card gefixt" />
+    <MESSAGE value="game scoreboard en beurten werken" />
+    <option name="LAST_COMMIT_MESSAGE" value="game scoreboard en beurten werken" />
   </component>
   <component name="WindowStateProjectService">
     <state x="526" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604765104651">
@@ -237,10 +246,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1604746784383" />
-    <state x="480" y="188" key="Vcs.Push.Dialog.v2" timestamp="1604962971145">
+    <state x="480" y="188" key="Vcs.Push.Dialog.v2" timestamp="1605055362043">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="480" y="188" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604962971145" />
+    <state x="480" y="188" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605055362043" />
     <state x="0" y="638" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604746924037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
