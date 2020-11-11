@@ -6,9 +6,14 @@
     <link rel="stylesheet" href="Css/memory_game.css">
 </head>
 <body>
+<div class="Scoreboard">Scoreboard</div>
+<div class="Scoreboard2">Scoreboard</div>
+
 <div id="players">
-    <div class="punten">Player1</div>
-    <div class="punten">Player2</div>
+    <div class="punten">Player1: <div id="player1points">0</div></div>
+
+
+    <div class="punten">Player2: <div id="player2points">0</div></div>
 </div>
 
     <section class="memory-game">
@@ -93,6 +98,9 @@
             <img class="img back-face" src="Img/MemoryCardBackground.jpg" alt="BroodjeLogo"/>
         </div>
     </section>
+<div class="winner" id="thewinner"></div>
+<div class="debeurt" id="debeurt">Player1 is aan de beurt</div>
+
 <script src="Javascript/indexJava.js"></script>
 </body>
 </html>

@@ -60,7 +60,7 @@ div#players {
     display: flex;
     position: absolute;
     width: 90%;
-    top: 20px;
+    top: 100px;
     left: 80px;
     justify-content: space-between;
 }
@@ -73,4 +73,50 @@ div.punten {
     background: white;
     padding: 20px;
     border: solid 1px black;
+}
+
+.Scoreboard {
+    display: flex;
+    position: absolute;
+    width: 134px;
+    top: 10px;
+    left: 80px;
+    font-size:20px;
+    justify-content: space-between;
+    background: white;
+    padding: 20px;
+    border: solid 1px black;
+}
+
+.Scoreboard2 {
+    display: flex;
+    position: absolute;
+    width: 134px;
+    top: 10px;
+    left: 86.5%;
+    font-size:20px;
+    justify-content: space-between;
+    background: white;
+    padding: 20px;
+    border: solid 1px black;
+}
+
+.winner {
+    position: absolute;
+    left: 40%;
+    border: 1px black solid;
+    background: white;
+    color: black;
+    font-size: 2em;
+    padding: 20px;
+}
+
+.debeurt {
+    position: absolute;
+    left: 43%;
+    border: 1px black solid;
+    background: white;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
 }
