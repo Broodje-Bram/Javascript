@@ -18,8 +18,12 @@ var winner = null;
 var playerbeurt = null;
 var thewinner = document.getElementById("thewinner");
 var debeurt = document.getElementById("debeurt");
+var cardvisibility = document.getElementById("cardvisibility");
+var startgamebutton = document.getElementById("startgamebutton");
+var onscreen = document.getElementById("onscreen");
 
-debeurt.style.visibility = 'visible'
+cardvisibility.style.visibility = 'hidden'
+onscreen.style.visibility = 'hidden'
 
 player1name.innerHTML = player1getname;
 player2name.innerHTML = player2getname;
@@ -128,6 +132,12 @@ function whowon() {
     thewinner.innerHTML = winner;
     thewinner.style.visibility = 'visible'
     debeurt.style.visibility = 'hidden'
+}
+
+function startgame() {
+    cardvisibility.style.visibility = 'visible'
+    startgamebutton.style.visibility = 'hidden'
+    onscreen.style.visibility = 'visible'
 }
 
 cards.forEach(card => card.addEventListener('click', flipCard));

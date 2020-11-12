@@ -11,17 +11,17 @@
         <span class="check"></span>
     </label>
 
-<div class="Scoreboard">Scoreboard</div>
-<div class="Scoreboard2">Scoreboard</div>
+<section id="onscreen">
+    <div class="Scoreboard">Scoreboard</div>
+    <div class="Scoreboard2">Scoreboard</div>
 
-<div id="players">
-    <div class="punten"><div id="player1name">Player1</div>: <div id="player1points">0</div></div>
-
-
-    <div class="punten"> <div id="player2name">Player2</div>: <div id="player2points">0</div></div>
-</div>
-
-    <section class="memory-game">
+    <div id="players">
+        <div class="punten"><div id="player1name">Player1</div>: <div id="player1points">0</div></div>
+         <div class="punten"> <div id="player2name">Player2</div>: <div id="player2points">0</div></div>
+    </div>
+    <div class="debeurt" id="debeurt">De beurt.....</div>
+</section>
+    <section class="memory-game" id="cardvisibility">
         <div class="memory-card" data-framework="BroodjeGezond">
             <img class="img front-face" src="Img/BroodjeGezond.png" alt="BroodjeGezond"/>
             <img class="img back-face" src="Img/MemoryCardBackground.jpg" alt="BroodjeLogo"/>
@@ -103,8 +103,9 @@
             <img class="img back-face" src="Img/MemoryCardBackground.jpg" alt="BroodjeLogo"/>
         </div>
     </section>
-<div class="winner" id="thewinner"></div>
-<div class="debeurt" id="debeurt">De beurt.....</div>
+    <div class="winner" id="thewinner"></div>
+
+    <button onclick="startgame()" id="startgamebutton">Press to start Game</button>
 
 <div class="Copyright">
       <a target="_blank">Game is geBramtest</a>
