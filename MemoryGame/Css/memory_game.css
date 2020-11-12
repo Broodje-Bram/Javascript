@@ -153,3 +153,21 @@ input[type="checkbox"]:checked ~ .check {
     background: cyan;
     box-shadow: 0 0 0 50000px #121212;
 }
+
+.Copyright a{
+    text-decoration: none;
+    font-size: 20px;
+    position: fixed;
+    color: gray;
+    display: block;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.Copyright a:hover {
+    color: lightgray;
+    transition: 0.1s ease-in-out;
+}
