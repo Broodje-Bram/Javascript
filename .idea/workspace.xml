@@ -19,11 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a633db1-2658-4cae-bbcf-b731f0cd8122" name="Default Changelist" comment="game scoreboard en beurten werken">
+    <list default="true" id="6a633db1-2658-4cae-bbcf-b731f0cd8122" name="Default Changelist" comment="Restart knop gemaakt">
+      <change afterPath="$PROJECT_DIR$/MemoryGame/Muziek/R2D2Scream.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MemoryGame/Css/memory_game.css" beforeDir="false" afterPath="$PROJECT_DIR$/MemoryGame/Css/memory_game.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MemoryGame/Javascript/indexJava.js" beforeDir="false" afterPath="$PROJECT_DIR$/MemoryGame/Javascript/indexJava.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MemoryGame/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MemoryGame/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +54,23 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/H05/Muziek" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MemoryGame" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05\Img" />
-      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\MemoryGame\Img" />
-      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05" />
-      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H04\Img\Ogen" />
-      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H04\Img\Neus" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05\Muziek" />
       <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05\Img" />
       <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\MemoryGame\Img" />
       <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H04\Img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\MemoryGame\Muziek" />
+      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05\Img" />
+      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\MemoryGame\Img" />
+      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H05" />
+      <recent name="C:\Users\Bramg\PhpstormProjects\JavaScript\H04\Img\Ogen" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -93,7 +94,14 @@
       <workItem from="1604962835730" duration="425000" />
       <workItem from="1605016044425" duration="2162000" />
       <workItem from="1605047245051" duration="8112000" />
-      <workItem from="1605090880421" duration="6896000" />
+      <workItem from="1605090880421" duration="7580000" />
+      <workItem from="1605112240255" duration="4217000" />
+      <workItem from="1605126805673" duration="2784000" />
+      <workItem from="1605132692853" duration="444000" />
+      <workItem from="1605196231405" duration="7948000" />
+      <workItem from="1605222476014" duration="75000" />
+      <workItem from="1605256304569" duration="5510000" />
+      <workItem from="1605281260108" duration="7214000" />
     </task>
     <task id="LOCAL-00001" summary="Opdracht af">
       <created>1604746958807</created>
@@ -186,7 +194,63 @@
       <option name="project" value="LOCAL" />
       <updated>1605055356938</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Dark mode added">
+      <created>1605098400371</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605098400371</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Color scheme aangepast">
+      <created>1605098868765</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605098868765</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Color scheme aangepast">
+      <created>1605132301397</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605132301397</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fix">
+      <created>1605132921376</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605132921376</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Beta Tester in de footer gezet">
+      <created>1605197028103</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605197028103</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Start game Button added">
+      <created>1605221806870</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605221806870</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Start game Button added with shadow">
+      <created>1605222024342</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605222024342</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Restart knop gemaakt">
+      <created>1605285204217</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605285204218</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +287,14 @@
     <MESSAGE value="versie 3.0" />
     <MESSAGE value="Javascript flip card gefixt" />
     <MESSAGE value="game scoreboard en beurten werken" />
-    <option name="LAST_COMMIT_MESSAGE" value="game scoreboard en beurten werken" />
+    <MESSAGE value="Dark mode added" />
+    <MESSAGE value="Color scheme aangepast" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="Beta Tester in de footer gezet" />
+    <MESSAGE value="Start game Button added" />
+    <MESSAGE value="Start game Button added with shadow" />
+    <MESSAGE value="Restart knop gemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Restart knop gemaakt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="526" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604765104651">
@@ -238,22 +309,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1604962919735" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1605018279743">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1605285133725">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605018279743" />
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605285133725" />
     <state x="647" y="310" key="Github.ShareDialog" timestamp="1604746784383">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1604746784383" />
-    <state x="480" y="188" key="Vcs.Push.Dialog.v2" timestamp="1605055362043">
+    <state x="556" y="133" key="RollbackChangesDialog" timestamp="1605199728165">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="480" y="188" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605055362043" />
+    <state x="556" y="133" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605199728165" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1605127123530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605127123530" />
+    <state x="480" y="188" key="Vcs.Push.Dialog.v2" timestamp="1605296225436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="480" y="188" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605296225436" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1605289610724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1605289610724" />
     <state x="0" y="638" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604746924037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="638" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604746924037" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1605221061678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605221061678" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605051457534">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

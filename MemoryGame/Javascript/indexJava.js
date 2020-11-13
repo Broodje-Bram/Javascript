@@ -142,6 +142,12 @@ function startgame() {
     cardvisibility.style.visibility = 'visible'
     startgamebutton.style.visibility = 'hidden'
     onscreen.style.visibility = 'visible'
+    playMusic()
+}
+
+function playMusic(){
+    var music = new Audio('Muziek/R2D2Scream.mp3');
+    music.play();
 }
 
 cards.forEach(card => card.addEventListener('click', flipCard));

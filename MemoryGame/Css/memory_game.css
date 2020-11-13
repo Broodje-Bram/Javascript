@@ -111,7 +111,7 @@ div.punten {
 
 .winner {
     position: absolute;
-    left: 40%;
+    left: 44%;
     border: 1px white solid;
     background: #092c3e;
     color: white;
@@ -173,7 +173,7 @@ input[type="checkbox"]:checked ~ .check {
 }
 
 button {
-    left: 46%;
+    left: 47%;
     top: 46%;
     width: 100px;
     height: 50px;
