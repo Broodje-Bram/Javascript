@@ -21,9 +21,11 @@ var debeurt = document.getElementById("debeurt");
 var cardvisibility = document.getElementById("cardvisibility");
 var startgamebutton = document.getElementById("startgamebutton");
 var onscreen = document.getElementById("onscreen");
+var restartgamebutton = document.getElementById("restartgamebutton");
 
 cardvisibility.style.visibility = 'hidden'
 onscreen.style.visibility = 'hidden'
+restartgamebutton.style.visibility = 'hidden'
 
 player1name.innerHTML = player1getname;
 player2name.innerHTML = player2getname;
@@ -132,6 +134,8 @@ function whowon() {
     thewinner.innerHTML = winner;
     thewinner.style.visibility = 'visible'
     debeurt.style.visibility = 'hidden'
+    restartgamebutton.style.visibility = 'visible'
+    cardvisibility.style.visibility = 'hidden'
 }
 
 function startgame() {
